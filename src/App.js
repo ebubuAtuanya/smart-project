@@ -3,7 +3,6 @@ import Navigation from './Components/Navigation/Navigation';
 import Logo from './Components/Logo/Logo';
 import ImageLinkForm from './Components/ImageLinkForm/ImageLinkForm';
 import Rank from './Components/Rank/Rank';
-import ParticlesComponent from './Components/Particles/Particle';
 import  'clarifai';
 import FaceRecognition from './Components/FaceRecognition/FaceRecognition';
 import Signing from './Components/Signing/Signing';
